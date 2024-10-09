@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pantalla de Inicio</string>
+    <string name="title_activity_fullscreen_greeting">¡Bienvenido!</string>
+    <string name="dummy_button">Por favor, espera</string>
+    <string name="dummy_content">Iniciando…</string>
+</resources>
